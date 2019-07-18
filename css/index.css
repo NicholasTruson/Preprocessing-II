@@ -314,8 +314,6 @@ a {
 }
 @media (max-width: 500px) {
   .home .btn {
-    justify-content: center;
-    align-content: center;
-    align-items: center;
+    margin: 0 auto;
   }
 }
